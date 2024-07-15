@@ -1,4 +1,4 @@
-const config = {
+export const config = {
     twwLoginButton: 'tww-login-button',
     twwRegistrationFree: 'tww-registration-free',
     twwPlusEmail: 'tww-plus-email',
@@ -28,6 +28,8 @@ const config = {
         twwPlusSuccess: 'tww-plus-success',
         twwPlusError: 'tww-plus-error',
         twwchangePlanModalClose: 'tww-change-plan-modal-close',
+        twwLoginModal: 'tww-modal-link',
+        grams2Ounces: 'grams2ounces__form'
     },
     loaders: {
         default: 'loader-rings-white',
